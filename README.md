@@ -1,6 +1,6 @@
 - 👋 Hi, I’m reza or david or yousef 
 - 👀 I’m interested in Hacking and security 
-- 🌱 I’m currently learning Hacking and security and web Designing 
+- 🌱 I’m currently learning Hacking and security , Pentest-web 
 - 📫 How to reach me) Telegram @cunstituent
 
 <!---
